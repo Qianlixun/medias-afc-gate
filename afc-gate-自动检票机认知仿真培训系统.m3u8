@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:65
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:64.800000,
+afc-gate-自动检票机认知仿真培训系统-00000.ts
+#EXTINF:63.600000,
+afc-gate-自动检票机认知仿真培训系统-00001.ts
+#EXTINF:63.600000,
+afc-gate-自动检票机认知仿真培训系统-00002.ts
+#EXTINF:34.240000,
+afc-gate-自动检票机认知仿真培训系统-00003.ts
+#EXT-X-ENDLIST

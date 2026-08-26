@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:58
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:58.000000,
+afc-gate-检票机读写器故障处理-00000.ts
+#EXTINF:58.000000,
+afc-gate-检票机读写器故障处理-00001.ts
+#EXTINF:58.000000,
+afc-gate-检票机读写器故障处理-00002.ts
+#EXTINF:58.000000,
+afc-gate-检票机读写器故障处理-00003.ts
+#EXTINF:27.966667,
+afc-gate-检票机读写器故障处理-00004.ts
+#EXT-X-ENDLIST
